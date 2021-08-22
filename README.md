@@ -1,4 +1,5 @@
 # practice
+一些小练习的项目集合，作用未知，先攒着吧
 ## npm_link
 作用：练习npm link
 main_project为主项目
